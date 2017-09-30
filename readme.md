@@ -7,9 +7,9 @@ This is a open source application to generate and store invoice in DB
 
 This open source application is free to use and can be installed easily by downloading it to your local drive running just like an laravel application. If you are not new to laravel please refer to http://laravel.com/docs/
 
-##Application Screenshot
+## Application Screenshot
 
-
+https://www.dropbox.com/s/m4q0jiu4nu14rou/Screen%20Shot%202017-09-30%20at%2010.26.21%20AM.png?dl=0
 
 ## Contributing
 
