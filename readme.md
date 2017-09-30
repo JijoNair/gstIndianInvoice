@@ -22,3 +22,6 @@ If you discover a security vulnerability within this application, please send an
 ## License
 
 The application is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Database
+ for database setup please email to jijonair@gmail.com
